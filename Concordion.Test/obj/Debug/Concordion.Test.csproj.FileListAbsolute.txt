@@ -1,0 +1,14 @@
+H:\MoveToGithub\The Concordion .net files to move to Github\Concordion.Test\bin\Debug\Concordion.config
+H:\MoveToGithub\The Concordion .net files to move to Github\Concordion.Test\bin\Debug\Concordion.Test.dll
+H:\MoveToGithub\The Concordion .net files to move to Github\Concordion.Test\bin\Debug\Concordion.Test.pdb
+H:\MoveToGithub\The Concordion .net files to move to Github\Concordion.Test\bin\Debug\Concordion.dll
+H:\MoveToGithub\The Concordion .net files to move to Github\Concordion.Test\bin\Debug\Moq.dll
+H:\MoveToGithub\The Concordion .net files to move to Github\Concordion.Test\bin\Debug\xunit.dll
+H:\MoveToGithub\The Concordion .net files to move to Github\Concordion.Test\bin\Debug\Ninject.dll
+H:\MoveToGithub\The Concordion .net files to move to Github\Concordion.Test\bin\Debug\OGNL.dll
+H:\MoveToGithub\The Concordion .net files to move to Github\Concordion.Test\bin\Debug\Concordion.pdb
+H:\MoveToGithub\The Concordion .net files to move to Github\Concordion.Test\bin\Debug\xunit.xml
+H:\MoveToGithub\The Concordion .net files to move to Github\Concordion.Test\bin\Debug\Ninject.xml
+H:\MoveToGithub\The Concordion .net files to move to Github\Concordion.Test\obj\Debug\ResolveAssemblyReference.cache
+H:\MoveToGithub\The Concordion .net files to move to Github\Concordion.Test\obj\Debug\Concordion.Test.dll
+H:\MoveToGithub\The Concordion .net files to move to Github\Concordion.Test\obj\Debug\Concordion.Test.pdb

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Concordion.Net</id>
+    <version>1.0</version>
+    <title />
+    <authors>Jeffrey Cameron</authors>
+    <owners>Jeffrey Cameron</owners>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
+    <projectUrl>https://launchpad.net/concordion-net</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>
+		Concordion is an acceptance testing framework that allows users to place their specifications in HTML file. These files contain references to fixtures 
+		in test code that are executed by Concordion. This project is a faithful port of Concordion to .NET to allow it to work with .NET projects.
+	</description>
+    <summary />
+    <dependencies>
+      <dependency id="Ninject" version="[2.0, 2.1)" />
+    </dependencies>
+  </metadata>
+</package>

@@ -1,0 +1,13 @@
+H:\MoveToGithub\The Concordion .net files to move to Github\Concordion\bin\Debug\Concordion.config
+H:\MoveToGithub\The Concordion .net files to move to Github\Concordion\bin\Debug\Concordion.dll
+H:\MoveToGithub\The Concordion .net files to move to Github\Concordion\bin\Debug\Concordion.pdb
+H:\MoveToGithub\The Concordion .net files to move to Github\Concordion\bin\Debug\Ninject.dll
+H:\MoveToGithub\The Concordion .net files to move to Github\Concordion\bin\Debug\OGNL.dll
+H:\MoveToGithub\The Concordion .net files to move to Github\Concordion\bin\Debug\Ninject.xml
+H:\MoveToGithub\The Concordion .net files to move to Github\Concordion\obj\Debug\ResolveAssemblyReference.cache
+H:\MoveToGithub\The Concordion .net files to move to Github\Concordion\obj\Debug\Concordion.HtmlFramework.resources
+H:\MoveToGithub\The Concordion .net files to move to Github\Concordion\obj\Debug\GenerateResource-ResGen.read.1.tlog
+H:\MoveToGithub\The Concordion .net files to move to Github\Concordion\obj\Debug\GenerateResource-ResGen.read.4.tlog
+H:\MoveToGithub\The Concordion .net files to move to Github\Concordion\obj\Debug\GenerateResource-ResGen.write.1.tlog
+H:\MoveToGithub\The Concordion .net files to move to Github\Concordion\obj\Debug\Concordion.dll
+H:\MoveToGithub\The Concordion .net files to move to Github\Concordion\obj\Debug\Concordion.pdb
